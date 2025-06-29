@@ -1,4 +1,4 @@
-# 🎨 Kasper Template Two
+# 🎨 Kasper Template
 
 [🔗 Live Demo](https://mahdikheireddine.github.io/kasper-landing-page/)
 
